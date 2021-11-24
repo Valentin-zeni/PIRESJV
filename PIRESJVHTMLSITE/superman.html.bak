@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Superman 64</title>
+	<meta charset="utf-8">
+</head>
+<body background="bg_4.jpg" text="white">
+
+	<h1 align="center" id="cible"><font color="white" face="verdana">Superman 64 / Nintendo 64 (1999)</font><h1>
+	<p align="center"><a href="index.html"> <font size="3" color="white">Retour à la page d'accueil</font></a></p>
+
+	<p align="center"><img src="superman.jpg" width="800" height="500" border="20"></p>
+	
+<!-- 7 max pour size -->
+	<table width="800" align="center">
+		<td>
+			<p align="justify">
+			<font color="white" size="4" face="arial">
+				Forcément, il était impossible de passer outre ce jeu, véritable kryptonite
+				dans le monde du gaming. Un super héros impossible à diriger correctement
+				dans un jeu où 1/3 de la campagne consiste à voler dans des cerceaux.
+				
+			</font>
+			</p>
+		</td>
+	</table>
+		<br>	<br>
+	
+	<iframe width="900" height="500" src="https://www.youtube.com/embed/rh9oR0YTxHs"
+	title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+	encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+	<iframe src="https://en.wikipedia.org/wiki/Superman_64" align="right" width="900" height="500"></iframe>
+	<br>	<br>
+	<br>
+	
+<table width="800" align="center">
+<td>
+				<p align="justify">
+				<font color="white" size="4" face="arial">
+				Des combats mous, un environnement vide et des graphismes qui déshonorent
+				totalement la Nintendo 64. Superman 64 est et restera dans
+				le top 5 des pires jeux vidéo pendant encore de longues années.
+				<br><br>
+				Un étron cosmique qui mériterait d'être banni à jamais dans la zone fantôme 
+				tant il atteint un niveau de nullité invraisemblable. Cette purge semble avoir 
+				été créée dans le seul but de nous faire haïr Superman tant celui-ci est impossible
+				à contrôler, c'est purement injouable, j'ai connu des manches à balai moins rigides (
+				je vous les présenterai).
+				<br><br>
+				C'est sans doute le jeu le plus mauvais auquel j'ai pu joué sur N64 . Bugs récurrents, graphismes si on peut appeler ça 
+				comme ça horribles, animation donnant envie de vomir, absence de musique... Je pourrais continuer la liste encore longtemps.
+				Je lui mets un 2 car la jaquette est assez jolie, enfin c'est ce qui m'a fait acheté le jeu à l'époque.
+				</p>
+</td>
+</table>				
+<br>
+	<br>
+	<div width="100" height="50" align="center">
+		<marquee behavior="scroll" direction="line" width="800" scrollamount="10" >
+			<img src="superman-6.jpg" height="500">
+			<img src="superman_5.jpg" height="500">
+			<img src="superman_3.gif" height="500">
+			<img src="superman_1.jpg" height="500">
+			<img src="superman_4.jpg" height="500">
+			</marquee>
+			</div>
+	
+			
+	<p align="center"><font color="white" size="3" face="">&copy; Developer: Titus Interactive / Publisher: Titus Interactive / Platform: Nintendo 64
+	/ Genre: Action-Aventure / Release	NA: May 31, 1999 EU: July 23, 1999</font></p>
+	
+		<a href=#cible><font size="3" color="white">Retour en haut de la page</font></a>
+
+</body>
+</html>

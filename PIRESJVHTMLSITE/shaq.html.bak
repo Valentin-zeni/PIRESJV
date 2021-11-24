@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Shaq-Fu </title>
+	<meta charset="utf-8">
+</head>
+<body background="bg_4.jpg">
+
+	<h1 align="center" id="cible"><font color="white" face="verdana">Shaq-Fu / Mega Drive (1994)</font><h1>
+	<p align="center"><a href="index.html"> <font size="3" color="white">Retour à la page d'accueil</font></a></p>
+
+	<p align="center"><img src="shaq_fu.jpg" width="350" height="500" border="20"></p>
+	
+		<table width="800" align="center">
+		<td>
+			<p align="justify">
+			<font
+			color="white"
+			size="4" 
+			face="arial">
+				La principale singularité de ce jeu, c’est bien évidemment
+				la présence de Shaquille O’Neal. Dans un jeu de basket 
+				ce serait logique, mais dans un jeu de baston,
+				c’est déjà plus surprenant.C’est ainsi que débute le mode story du jeu.
+				Le joueur doit alors parcourir une carte pour choisir 
+				qui il va combattre jusqu’à l’affrontement final contre le boss.
+			</font>
+			</p>
+		</td>
+	</table>
+		<br>	<br>
+	
+	<iframe width="900" height="500" src="https://www.youtube.com/embed/44HPIZT6gPk" 
+	title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+	encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+		<iframe src="https://en.wikipedia.org/wiki/Shaq_Fu" align="right" width="900" height="500"></iframe>
+	<br>	<br>
+	<br>
+	
+<table width="800" align="center">
+	<td>
+				<p align="justify">
+				<font color="white" size="4" face="arial">
+				Au final, ce jeu n'est pas si mauvais, mais il est devenu un bouc-émissaire. 
+				Beaucoup trop facile et aux graphismes très moyens, il reste un jeu de combat
+				plutôt correct mais le choix de Shaquille O'Neal (basketteur professionnel)
+				en star du cast pour un jeu de kung-fu est assez étrange.
+				<br><br>
+				Une intrigue courte et simpliste (Shaq se contente de voyager au hasard sur la carte
+				en battant toutes les personnes qu'il croise jusqu’au boss final), illogique à certains moment (
+				durant l'histoire, on combat littéralement l'enfant qu'on est censé sauver ainsi que son grand-père),
+				avec des dialogues pas crédibles (voire insultants)
+				Les bruitages affreux et les litanies incompréhensibles et sans intérêt de Bubsy vous feront 
+				couper le son au bout de la première minute de jeu. Les musiques rattrapent très légèrement cette catastrophe auditive.
+				<br> <br>
+				La présence de O'Neal dont on pense qu'il n'a été inséré dans le jeu que pour le rendre plus « vendeur »1. 
+				Cela est aussi la même chose pour les pubs de Pepsi disséminées un peu partout dans le jeu.
+				</font>
+				</p>
+	</td>
+</table>	
+</table>	
+<br>
+	<br>
+	<div width="100" height="50" align="center">
+		<marquee behavior="scroll" direction="line" width="800" scrollamount="10" >
+			<img src="shaq_accueil.jpg" height="500">
+			<img src="shaq_5.png" height="500">
+			<img src="shaq_fu_2.png" height="500">
+			<img src="shaq_3.jfif" height="500">
+			<img src="shaq_4.jfif" height="500">
+			</marquee>
+			</div>
+	
+			
+	<p align="center"><font color="white" size="3" face="">&copy; 
+	Developer: Delphine Software International, Tiertex Design Studio 
+	/ Publisher: Electronic Arts, Black Pearl Software / Platform: MegaDrive
+	/ Genre: Fighting / Release	NA: October 28, 1994 EU: 1994</font></p>
+	
+		<a href=#cible><font size="3" color="white">Retour en haut de la page</font></a>
+
+</body>

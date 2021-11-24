@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bubsy 3D</title>
+	<meta charset="utf-8">
+</head>
+<body background="bg_4.jpg" text="white">
+
+	<h1 align="center" id="cible"><font color="white" face="verdana">BUBSY 3D / PS1 (1997)<img src="iconebubsy.png" width=5% height=5%></font><h1>
+	<p align="center"><a href="index.html"> <font size="3" color="white">Retour à la page d'accueil</font></a></p>
+
+	<p align="center"><img src="bubsy.jpg" width="500" height="500" border="20"></p>
+	
+<!-- 7 max pour size -->
+	<table width="800" align="center">
+		<td>
+			<p align="justify">
+			<font color="white" size="4" face="arial">
+				Cette perle disponible sur PlayStation mêle habilement des graphismes horribles, 
+				une bande-son à donner des migraines et un gameplay injouable.
+				La critique principale à son encontre est d'avoir un niveau de qualité aussi faible
+				pour une console comme la PlayStation comparé à ses autres jeux.
+				
+			</font>
+			</p>
+		</td>
+	</table>
+		<br>	<br>
+	
+	<iframe width="900" align="center" height="500" src="https://www.youtube.com/embed/NHjJPAkPzYU?start=95" 
+	title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+	encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	</iframe>	
+
+	<iframe src="https://en.wikipedia.org/wiki/Bubsy_3D" align="right" width="900" height="500"></iframe>
+	<br>	<br>
+	<br>
+	
+<table width="800" align="center">
+<td>
+				<p align="justify">
+				<font color="white" size="4" face="arial">
+				Prenez un damier, des panneaux rectangulaires très moches, des couleurs unies, 
+				criardes et horribles, des bugs dans tous les sens ainsi qu'un clipping odieux et 
+				vous obtenez Bubsy 3D. En termes de graphismes, ce jeu est le meilleur exemple de 
+				ce qu'il ne faut pas faire.
+				<br><br>
+				Vous râlez quand vous manquez un saut dans un jeu ? Avec Bubsy 3D, apprêtez-vous à 
+				casser plus d'une manette. Bubsy est incontrôlable, les bonus ne servent à rien,
+				l'intérêt même du jeu est encore à définir... Bref, le gameplay de ce jeu est en-dessous
+				du niveau de la mer. Pour rappel, la même année sortait Tomb Raider, 
+				une référence en matière de gameplay en vue à la troisième personne, 
+				à l'époque. A l'opposé total de ce jeu.
+				<br><br>
+				Les bruitages affreux et les litanies incompréhensibles et sans intérêt de Bubsy vous feront 
+				couper le son au bout de la première minute de jeu. Les musiques rattrapent très légèrement cette catastrophe auditive.
+				</font>
+				</p>
+</td>
+</table>				
+<br>
+	<br>
+	<div width="100" height="50" align="center">
+		<marquee behavior="scroll" direction="line" width="800" scrollamount="10" >
+			<img src="bubsy_5.jpg" height="500">
+			<img src="bubsy_2.jpg" height="500">
+			<img src="bubsy_3.jpg" height="500">
+			<img src="bubsy_4.png" height="500">
+			<img src="bubsy_6.png" height="500">
+			</marquee>
+			</div>
+	
+			
+	<p align="center"><font color="white" size="3" face="">&copy; Developer: Eidetic / Publisher: Accolade / Platform: PlayStation
+	/ Genre: Platform / Release	NA: November 25, 1996 EU: August 1997</font></p>
+	
+		<a href=#cible><font size="3" color="white">Retour en haut de la page</font></a>
+
+</body>
+</html>

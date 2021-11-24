@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<meta charset="utf8">
+<html lang="fr">
+	<head>
+		<title>Paris-Marseille Racing 2</title>
+	</head>
+	<body background="bg_4.jpg" text="white">
+		<h1 align="center" id="cible"><font color="white" face="verdana">Paris-Marseille Racing 2 / PC, PS2 (2002)</font><h1>
+		<p align="center"><a href="index.html"> <font size="3" color="white">Retour à la page d'accueil</font></a></p>
+
+		<p align="center"><img src="pm.jpg" width="350" height="500"></p>
+				
+				<!-- 7 max pour size -->
+		<table width="800" align="center">
+			<td>
+				<p align="justify">
+				<font color="white" size="4" face="arial">
+				Paris-Marseille Racing II est un jeu de courses sur Playstation 2. Préparez-vous à des épreuves de vitesse
+				dans Paris, Lyon et Marseille. Écrasez vos adversaires grâce à vos talents de pilote, à des collisions stratégiques
+				et des cascades de premier ordre (ou pas).
+				</font>
+				</p>
+			</td>
+		</table>
+		<br><br>
+		<iframe width="900" height="500" src="https://www.youtube.com/embed/Fh73PwWESKs" title="YouTube video player" frameborder="0"
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe src="https://fr.wikipedia.org/wiki/Paris-Marseille_Racing" align="right" width="900" height="500"></iframe>
+		<br><br></br>
+		<table width="800" align="center">
+			<td>
+				<p align="justify">
+				<font color="white" size="4" face="arial">
+				Paris-Marseille Racing II est un jeu de course en 3D où il faudra, comme tout bon jeu du genre, faire des courses contre des adversaires 
+				(ici, quatre par course) dans divers circuits. Dans ce jeu, vous pourrez choisir parmi six coureurs ayant chacun leur propre voiture, dans 
+				six villes ayant chacun deux circuits (sauf pour Las Vegas, où il n'y en a qu'un), avec Paris, Lyon, Marseille, Londres, Édimbourg et Las Vegas.
+				Au cours du jeu, vous pourrez gagner de l'argent en ramassant des items € ou en vous plaçant bien lors des courses, afin d'améliorer, réparer ou 
+				rajouter du nitro à votre voiture. Vous pourrez participer à un tournoi comprenant trois catégories: Paris-Lyon, Paris-Marseille et International; 
+				chaque fois, le nombre de courses augmentera. Vous pourrez aussi faire une course simple ou un contre-la-montre seul.
+				<br><br>
+				L'ambiance du jeu est tout simplement nulle au possible: les bruits de moteur sont les mêmes à 40 comme à 130km/h, ceux des concurrents ressemblent
+				aux bruits d'une mobylette, les bruits de collisions ou de sirènes de police, en plus d'être insupportables car vous les entendrez souvent, sont absolument 
+				irréalistes et l'espèce d'animateur que vous entendrez toutes les 30 secondes (que ce soit en version française ou allemande) est aussi charismatique qu'un 
+				manche à balai cassé dans un placard d'un pensionnat albanais, lâchant par moment sans aucune raison un "C'est génial!"... 
+				<br><br>
+				 Pour finir, on dira que le jeu se plie en 2h-2h30 par coureur, en comptant les omniprésents temps de chargement et de sauvegarde entre les courses. Si vous 
+				 avez envie de débloquer les autres véhicules, ce qui signifie que vous êtes tombés dans un masochisme assez important, comptez à peu près autant de temps par 
+				 tournoi que vous referez.
+				</font>
+				</p>
+			</td>
+		</table>
+		<br><br>
+		<div width="100" height="50" align="center">
+			<marquee behavior="scroll" direction="line" width="800" scrollamount="10" >
+				<img src="pm-5.jpg" height="500">
+				<img src="pm_8.jpg" height="500">
+				<img src="pm_43.jpg" height="500">
+				<img src="pm_7.jpg" height="500">
+				<img src="pm_6.jpg" height="500">
+			</marquee>
+		</div>
+		<p align="center"><font color="white" size="3" face="">&copy; Developer: Davilex Games / Publisher: Davilex Games / Platform: PC, PS2
+		/ Genre: Racing / Release EU: October 25, 2002</font></p>
+	
+		<a href=#cible><font size="3" color="white">Retour en haut de la page</font></a>
+
+	</body>
+</html>
